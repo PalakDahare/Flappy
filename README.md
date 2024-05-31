@@ -45,20 +45,6 @@ git clone https://github.com/your-username/flappy-game.git
 cd flappy-game
 
 ```
-**Compile the project:
 
-
-```
-javac src/com/yourusername/flappygame/FlappyGame.java
-
-```
-
-Run the game:
-
-```
-
-java -cp src com.yourusername.flappygame.FlappyGa
-
-```
 
 
