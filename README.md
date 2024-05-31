@@ -4,22 +4,22 @@
 - Project Overview
 
 
-*Features
+- Features
 
 
-*Technologies Used
+- Technologies Used
 
 
-*Installation
+- Installation
 
 
-*Usage
+- Usage
 
 
-*Gameplay Instructions
+- Gameplay Instructions
 
 
-*Contributing
+- Contributing
 
 
 # Project Overview
@@ -28,27 +28,27 @@ This is a simple Flappy Bird-inspired game built using Java. The player controls
 
 # Features
 
-*Simple Controls: Easy to understand and use controls.
+- **Simple Controls**: Easy to understand and use controls.
 
 
-*Score Tracking: Keeps track of the player's score.
+- **Score Tracking**: Keeps track of the player's score.
 
 
-*Collision Detection: Game ends when the bird collides with a pipe or the ground.
+- **Collision Detection**: Game ends when the bird collides with a pipe or the ground.
 
 
-*Restart Option: Ability to restart the game after a collision.
+- **Restart Option**: Ability to restart the game after a collision.
 
 
 # Technologies Used
 
-*Java: Core programming language.
+- **Java**: Core programming language.
 
 
-*Java Swing: GUI toolkit for creating the game window and rendering graphics.
+- **Java Swing**: GUI toolkit for creating the game window and rendering graphics.
 
 
-*Java AWT: Abstract Window Toolkit for handling events and painting.
+- **Java AWT**: Abstract Window Toolkit for handling events and painting.
 
 
 # Installation
@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 **Clone the repository:
 
 ```
-git clone https://github.com/your-username/flappy-game.git
+git clone https://github.com/PalakDahare/Flappy.git
 cd flappy-game
 
 ```
