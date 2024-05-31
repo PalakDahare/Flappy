@@ -13,7 +13,6 @@
 - Installation
 
 
-- Usage
 
 
 - Gameplay Instructions
@@ -54,13 +53,22 @@ This is a simple Flappy Bird-inspired game built using Java. The player controls
 # Installation
 To run this project locally, follow these steps:
 
-**Clone the repository:
+**Clone the repository**:
 
 ```
 git clone https://github.com/PalakDahare/Flappy.git
 cd flappy-game
 
 ```
+
+# Gameplay Instructions
+- Press the Space bar to make the bird flap.
+- Avoid the pipes to keep flying.
+- The game ends when the bird collides with a pipe or the ground.
+- Your score is the number of pipes you successfully pass.
+
+ # Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
 
 
 
